@@ -10,7 +10,7 @@ $data = [
 	[
 		"name" => "Keaton Chastain",
 		"phone" => "06 26 16 91 85",
-		"email" => "nibh.dolor.nonummy@protonmail.edu",
+		"email" => "nibh.dolor.nonummy@yahoo.com",
 		"region" => "Provence-Alpes-Côte d'Azur"
 	],
 	[
@@ -64,19 +64,19 @@ $data = [
 	[
 		"name" => "Elliott Lavigne",
 		"phone" => "06 54 84 72 24",
-		"email" => "nascetur.ridiculus@protonmail.couk",
+		"email" => "nascetur.ridiculus@protonmail.cou",
 		"region" => "Champagne-Ardenne"
 	],
 	[
 		"name" => "Selma Dam",
 		"phone" => "04 73 68 84 77",
-		"email" => "eget.volutpat.ornare@aol.couk",
+		"email" => "eget.volutpat.ornare@aol.cou",
 		"region" => "Midi-Pyrénées"
 	],
 	[
 		"name" => "Cody Peerenboom",
 		"phone" => "08 63 88 19 66",
-		"email" => "ante.maecenas@outlook.couk",
+		"email" => "ante.maecenas@outlook.cou",
 		"region" => "Alsace"
 	],
 	[
